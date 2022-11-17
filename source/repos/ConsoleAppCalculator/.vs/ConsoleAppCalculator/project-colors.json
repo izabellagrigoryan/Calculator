@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "176d4d30-627f-4965-8817-6f992a863162": {
+      "ProjectGuid": "176d4d30-627f-4965-8817-6f992a863162",
+      "DisplayName": "ConsoleAppCalculator",
+      "ColorIndex": 0
+    },
+    "ee5a86cf-5ca2-4bd1-8ca3-59f4415e2c59": {
+      "ProjectGuid": "ee5a86cf-5ca2-4bd1-8ca3-59f4415e2c59",
+      "DisplayName": "Calculator",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
